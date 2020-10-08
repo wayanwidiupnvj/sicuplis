@@ -1,0 +1,2 @@
+# sicuplis
+Campus Planning System
